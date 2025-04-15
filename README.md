@@ -44,10 +44,8 @@
 - Nmap
 - Wireshark
 - Bettercap
-- RouterSploit
 - Binwalk
 - aircrack-ng
-- hydra
 
 ---
 
